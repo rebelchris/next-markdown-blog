@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project is written for OpenReplay and you can find the full article here:
 
-[Link to article (TODO)]()
+[Link to article](https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour)
 
 ## Deploy on Vercel
 
