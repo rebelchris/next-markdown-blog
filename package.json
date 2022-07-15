@@ -6,9 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "analyze": "ANALYZE=true next build"
   },
   "dependencies": {
+    "@next/bundle-analyzer": "^12.2.2",
     "gray-matter": "^4.0.3",
     "markdown-it": "^12.3.2",
     "markdown-it-highlightjs": "^3.6.0",
